@@ -1,3 +1,1 @@
-{
-    "EEOOFLCOOOHC": "OK"
-}
+{"EEOOFLCOOOHC":"OK"}
