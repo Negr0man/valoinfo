@@ -1,0 +1,6 @@
+{
+    DLL: ""
+    Injector: ""
+    Version: ""
+    HWIDS: ""
+}
