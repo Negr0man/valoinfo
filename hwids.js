@@ -1,1 +1,1 @@
-{"EEOOFLCOOOHC":"Ok"}
+{"EEOOFLCOOOHC":"Ok", "AEOOFLCOOOHC":"Banned"}
