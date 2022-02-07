@@ -1,0 +1,4 @@
+Level 0: OK (You are not banned)
+Level 1: Banned (You are banned and you can appeal it. (Maybe))
+Level 2: SBanned (You are Soft Banned. You cant appeal it but u have a chance to get unbanned.)
+Level 3: HBanned (You are Hard Banned. You cant appeal it and u have zero chance to get unbanned.)
