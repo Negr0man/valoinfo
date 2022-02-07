@@ -4,5 +4,5 @@
     "Version": "1.0",
     "UIVer": "1.0",
     "CheatStat": "Working",
-    "NewUILink": "N/A",
+    "NewUILink": "N/A"
 }
